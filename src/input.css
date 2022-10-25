@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.textshawdon {
+  text-shadow: 3px 2px #33A8DB;
+}
